@@ -11,8 +11,8 @@ h1 {
   color: #ffa500;
 }
 section {
-  display: flex; 
-
+  display: flex;
+  margin-bottom: 50px;
 }
 .top-banner {
   background-image: url(images/top-banner.png);
@@ -28,9 +28,14 @@ section {
 }
 .btn-hire {
   color: #fff;
-  background-image: linear-gradient(-45deg, #FF7253, #FF9470);
+  background-image: linear-gradient(-45deg, #ff7253, #ff9470);
   text-decoration: none;
   padding: 10px 30px;
   border-radius: 5px;
   font-weight: 600;
+}
+.second-banner {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
