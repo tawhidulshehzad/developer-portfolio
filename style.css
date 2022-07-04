@@ -10,7 +10,7 @@ h1 {
 .own {
   color: #ffa500;
 }
-section {
+.fl-top {
   display: flex;
   margin-bottom: 50px;
 }
@@ -38,4 +38,23 @@ section {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
+  
+}
+.experience {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  
+}
+.exd {
+  background-color: #ffffff;
+  box-shadow: 10px 10px 40px #ececec;
+  margin: 10px 60px;
+  border-left: 6px solid red;
+  border-radius: 5px;
+  padding: 30px;
+  
+}
+footer {
+  text-align: center;
 }
