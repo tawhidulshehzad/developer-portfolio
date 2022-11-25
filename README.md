@@ -12,7 +12,7 @@ Your website has to be related to selling used (second-hand products) with the a
 
 ## Main Requirements
 
-1. Your homepage will have a **navbar** , a banner/slider, Advertised items, second-hand **product categories** section and a realistic **footer**.
+1. Your homepage will have a **navbar** , a banner/slider, Advertised items, second-hand **product categories** section and a realistic **footer**. Your navbar will have a **login** button. Implement email/password-based authentication and at least one social login(google, Facebook, GitHub, etc.) authentication. **Create an extra field for options. There will be two options: a radio button, a dropdown, a toggle button, etc. If the user creates a seller account, he will choose the seller option. Otherwise, a normal user will have the user option selected by default**. Users logged in by using social media will be considered as buyers. 
 
 2. Add **one** extra section on the home page. Make sure it is unique and relevant to your website.
 
@@ -22,7 +22,7 @@ Your website has to be related to selling used (second-hand products) with the a
 
 5. On clicking the **Book now** button, a form in a modal will popup with the logged-in user name and email address, item name, and price(item name, price, and user information will not be editable) by default. You will give your phone number and meeting location, and lastly, there will be a submit button. After clicking the submit button, you will have to inform the buyer with a modal/toast that the item is booked.
 
-6. Your navbar will have a **login** button. Implement email/password-based authentication and at least one social login(google, Facebook, GitHub, etc.) authentication. **Create an extra field for options. There will be two options: a radio button, a dropdown, a toggle button, etc. If the user creates a seller account, he will choose the seller option. Otherwise, a normal user will have the user option selected by default**. Users logged in by using social media will be considered as buyers. 
+6. 
 
       **Note:** Do not apply email verification as it will be an inconvenience for the examiner. It is important for the examiner to be able to check your authentication without any hassle. If you want, you can add email verification after getting the assignment result.
 
