@@ -46,9 +46,9 @@ Your website has to be related to selling used (second-hand products) with the a
 
 13. 
 
-14. Create a meaningful 404 page (not found page). Add a meaningful image on the 404 page.
 
-15. Use a database to store information. It could be MongoDB atlas or any other database. Save the users in the database
+
+
 
 ## Bonus Requirements
 
